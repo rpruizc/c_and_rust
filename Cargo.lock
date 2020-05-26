@@ -3,4 +3,3 @@
 [[package]]
 name = "from_c_to_rust"
 version = "0.1.0"
-
